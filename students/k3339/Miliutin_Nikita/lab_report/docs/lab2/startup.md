@@ -1,7 +1,7 @@
 Для запуска веб-приложения в режиме разработки выполните команду:
 
 ```
-cd students/k3339/Alexey_Malakhov/lab_2/lab
+cd students/k3339/Miliutin_Nikita/lab_2/lab
 sudo docker compose up -d                     # запуск контейнера с postgresql
 cd backend
 python -m venv .venv                          # создание виртуального окружения
